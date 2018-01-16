@@ -1,0 +1,5 @@
+# Install files
+node_modules
+
+# General files to ignore
+.DS_Store
